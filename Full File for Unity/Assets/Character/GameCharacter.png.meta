@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: d5d576e430b00594ca74fbe4bb9129db
+timeCreated: 1520374306
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head
+    21300002: Left Hand Shoulder
+    21300004: Right Hand Shoulder
+    21300006: Left Hand Biceps
+    21300008: Right Hand Biceps
+    21300010: Body
+    21300012: Left Hand Arm
+    21300014: Right Hand Arm
+    21300016: Left Hand
+    21300018: Right Hand
+    21300020: Torso
+    21300022: Foot Left Thigh
+    21300024: Foot Right Thigh
+    21300026: Foot Left Leg
+    21300028: Foot Right Leg
+    21300030: Foot Left
+    21300032: Foot Right
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1060
+        width: 105
+        height: 121
+      alignment: 9
+      pivot: {x: 0.48711228, y: 0.086209886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Left Hand Shoulder
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1124
+        width: 65
+        height: 60
+      alignment: 9
+      pivot: {x: 0.7706421, y: 0.7255351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Right Hand Shoulder
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1124
+        width: 44
+        height: 60
+      alignment: 9
+      pivot: {x: 0.38713768, y: 0.768986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Left Hand Biceps
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1008
+        width: 85
+        height: 104
+      alignment: 9
+      pivot: {x: 0.86616284, y: 0.8643259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Right Hand Biceps
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 995
+        width: 61
+        height: 110
+      alignment: 9
+      pivot: {x: 0.2354216, y: 0.895014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 755
+        width: 184
+        height: 249
+      alignment: 9
+      pivot: {x: 0.47793683, y: 0.14131893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Left Hand Arm
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 859
+        width: 46
+        height: 130
+      alignment: 9
+      pivot: {x: 0.66193026, y: 0.85334235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Right Hand Arm
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 847
+        width: 87
+        height: 115
+      alignment: 9
+      pivot: {x: 0.18606322, y: 0.8454537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Left Hand
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 775
+        width: 49
+        height: 55
+      alignment: 9
+      pivot: {x: 0.37331966, y: 0.8611561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Right Hand
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 772
+        width: 64
+        height: 52
+      alignment: 9
+      pivot: {x: 0.18963051, y: 0.5954977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Torso
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 628
+        width: 123
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foot Left Thigh
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 560
+        width: 92
+        height: 129
+      alignment: 9
+      pivot: {x: 0.76988554, y: 0.90420085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foot Right Thigh
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 572
+        width: 92
+        height: 128
+      alignment: 9
+      pivot: {x: 0.21661974, y: 0.90735865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foot Left Leg
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 415
+        width: 112
+        height: 118
+      alignment: 9
+      pivot: {x: 0.8214531, y: 0.8892755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foot Right Leg
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 419
+        width: 58
+        height: 134
+      alignment: 9
+      pivot: {x: 0.3929759, y: 0.8983833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foot Left
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 343
+        width: 96
+        height: 37
+      alignment: 9
+      pivot: {x: 0.28015518, y: 0.7348732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foot Right
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 352
+        width: 98
+        height: 38
+      alignment: 9
+      pivot: {x: 0.30997762, y: 0.7613622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

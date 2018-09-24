@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 829fbc9cc3bbd8f45b8c711013dce454
+timeCreated: 1518075426
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Strange Shadow
+  fontNames:
+  - Strange Shadow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

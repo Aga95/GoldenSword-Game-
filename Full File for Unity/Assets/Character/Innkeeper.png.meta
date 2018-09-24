@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 0a4486a7bded4c74f9aecf69733bc9e6
+timeCreated: 1520543788
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Front Head
+    21300002: Side Body
+    21300004: Side Left Shoulder
+    21300006: Side Right Shoulder
+    21300008: Side Head
+    21300010: Front Body
+    21300012: Side Left Biceps
+    21300014: Side Right Biceps
+    21300016: Side Left Arm
+    21300018: Side Right Arm
+    21300020: Front Biceps
+    21300022: Front Arm
+    21300024: Front Hand
+    21300026: Cloth
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Front Head
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 690
+        width: 74
+        height: 105
+      alignment: 9
+      pivot: {x: 0.37245113, y: 0.14353377}
+      border: {x: 0, y: 0, z: 15, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Side Body
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 519
+        width: 86
+        height: 223
+      alignment: 9
+      pivot: {x: 0.4958411, y: 0.08139517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Side Left Shoulder
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 651
+        width: 52
+        height: 54
+      alignment: 9
+      pivot: {x: 0.44497445, y: 0.8841519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Side Right Shoulder
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 648
+        width: 56
+        height: 56
+      alignment: 9
+      pivot: {x: 0.44890484, y: 0.9151393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Side Head
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 687
+        width: 74
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4420001, y: 0.19241333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front Body
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 484
+        width: 153
+        height: 180
+      alignment: 9
+      pivot: {x: 0.47662362, y: 0.110549584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Side Left Biceps
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 564
+        width: 38
+        height: 58
+      alignment: 9
+      pivot: {x: 0.45293868, y: 0.9008242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Side Right Biceps
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 561
+        width: 40
+        height: 59
+      alignment: 9
+      pivot: {x: 0.43740845, y: 0.9243402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Side Left Arm
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 480
+        width: 32
+        height: 56
+      alignment: 9
+      pivot: {x: 0.3770542, y: 0.90236557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Side Right Arm
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 482
+        width: 31
+        height: 55
+      alignment: 9
+      pivot: {x: 0.41923672, y: 0.92919034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front Biceps
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 411
+        width: 42
+        height: 64
+      alignment: 9
+      pivot: {x: 0.54257846, y: 0.90236616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front Arm
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 411
+        width: 52
+        height: 45
+      alignment: 9
+      pivot: {x: 0.20424388, y: 0.86560667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front Hand
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 358
+        width: 37
+        height: 26
+      alignment: 9
+      pivot: {x: 0.123008266, y: 0.7338539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cloth
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 348
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
